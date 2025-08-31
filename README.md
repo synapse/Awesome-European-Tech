@@ -60,6 +60,7 @@ Please take a look at: [Index](#index), [Acceptance Criteria](#acceptance-criter
 - [FinTech](#fintech)
 - [Gaming Projects](#gaming-projects)
 - [Hardware](#hardware)
+- [Photography](#photography)
 - [Human Resources](#human-resources)
 - [IDEs](#ides)
 - [Identity and Access Management (IAM)](#identity-and-access-management-iam)
@@ -281,6 +282,9 @@ Please take a look at: [Index](#index), [Acceptance Criteria](#acceptance-criter
 - [Raspberry Pi](https://www.raspberrypi.com/) 🇬🇧 - Affordable single-board computers for DIY projects.
 - [Recogni](https://www.recogni.com/) 🇩🇪 - Company focusing on AI-powered vision processing for autonomous systems.
 - [Sipearl](https://www.sipearl.com/) 🇫🇷 - Company developing microprocessors for high-performance computing (HPC), particularly for the European Processor Initiative (EPI).
+
+### Photography
+- [Pixii](https://pixii.fr/) 🇮🇹 - Camera manufacturer, that produces modern digital rangefinder cameras with native smartphone connectivity and a Leica-M compatible lens mount.
 
 ### Human Resources
 - [TalentoHQ](https://talentohq.com/) 🇪🇸 - Talent management and human resources solution.
