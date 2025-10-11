@@ -322,7 +322,7 @@ Please take a look at: [Index](#index), [Acceptance Criteria](#acceptance-criter
 
 
 ### Music and Travel
-- [Bolt](https://bolt.eu/) 🇪🇪 - Mobility company offering ride-hailing and other services.
+- [Bolt](https://bolt.eu/en/) 🇪🇪 - Mobility company offering ride-hailing and other services.
 - [Deezer](https://www.deezer.com/) 🇫🇷 - Audio streaming and media services provider with user centric money distribution.
 - [Qobuz](https://www.qobuz.com/) 🇫🇷 - Audio streaming and media services provider with Hi-Fi quality.
 - [Spotify](https://www.spotify.com/) 🇸🇪 - Audio streaming and media services provider.
